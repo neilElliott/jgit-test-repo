@@ -1,0 +1,9 @@
+{
+  "demo": {
+    "greeting": "Hello {{name}}!",
+    "new_key": "new English value",
+    "text": "This is a simple demonstration app for ngx-translate with Babel",
+    "title": "Translation demo"
+  },
+  "flat_key": "flat value"
+}
